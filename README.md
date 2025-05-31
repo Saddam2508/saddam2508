@@ -8,11 +8,11 @@ A passionate Full Stack Developer from Bangladesh
 
 ## 🧑‍💻 About Me
 
-II’m Saddam, a passionate freelance web developer with over one year of hands-on experience. I specialize in building modern and responsive websites using the latest web technologies.
+I’m Saddam, a passionate freelance web developer with over two year of hands-on experience. I specialize in building modern and responsive websites using the latest web technologies.
 
 I’m a self-motivated learner and a dedicated problem solver who enjoys working both independently and as part of a team. I love sharing knowledge with others and believe in learning through teaching.
 
-Currently, I’m focused on enhancing my skills in full stack development with the goal of landing a great job or growing further in freelancing. I'm always open to new opportunities and collaborations that help me grow and contribute meaningfully.
+Currently, I’m focused on enhancing my skills in full-stack development, with the goal of landing a great job or advancing further in freelancing. I'm always open to new opportunities and collaborations that help me grow and contribute meaningfully.
 
 ---
 
@@ -33,9 +33,58 @@ Currently, I’m focused on enhancing my skills in full stack development with t
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats]![Saddam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saddam2508&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam2508&layout=compact&theme=radical)
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Saddam2508&show_icons=true&theme=default&border_radius=10&hide_border=false"
+  width="80%" 
+  alt="Saddam's GitHub Stats"
+/>
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="left">
+
+**HTML**  
+<img src="https://img.shields.io/badge/HTML-48.32%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
+  <div style="width: 48.32%; background: #E34F26; height: 10px; border-radius: 5px;"></div>
+</div><br>
+
+**JavaScript**  
+<img src="https://img.shields.io/badge/JavaScript-36.14%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
+  <div style="width: 36.14%; background: #F7DF1E; height: 10px; border-radius: 5px;"></div>
+</div><br>
+
+**CSS**  
+<img src="https://img.shields.io/badge/CSS-10.64%25-563D7C?style=flat-square&logo=css3&logoColor=white" />
+
+<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
+  <div style="width: 10.64%; background: #563D7C; height: 10px; border-radius: 5px;"></div>
+</div><br>
+
+**TypeScript**  
+<img src="https://img.shields.io/badge/TypeScript-2.77%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
+  <div style="width: 2.77%; background: #3178C6; height: 10px; border-radius: 5px;"></div>
+</div><br>
+
+**Java**  
+<img src="https://img.shields.io/badge/Java-2.14%25-b07219?style=flat-square&logo=java&logoColor=white" />
+
+<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
+  <div style="width: 2.14%; background: #b07219; height: 10px; border-radius: 5px;"></div>
+</div>
+
+</div>
 
 ---
 
