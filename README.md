@@ -18,12 +18,21 @@ Currently, I’m focused on enhancing my skills in full-stack development, with 
 
 ## 🛠️ My Skills
 
-### 💻 Web Development:
+### 💻 Web Development
 
 - HTML5, CSS3, Bootstrap
-- JavaScript, React.js, Node.js, Express.js
+- JavaScript, TypeScript
+- React.js, Next.js
+- Node.js, Express.js
 - MongoDB
 - Git & GitHub
+
+### 🎨 UI & Styling
+
+- Vanilla CSS
+- Tailwind CSS
+- DaisyUI
+- HeroUI
 
 ### 🖥️ Other Skills:
 
