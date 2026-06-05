@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Md Saddam Hossain 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E05A00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Md+Saddam+Hossain;Full+Stack+Web+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Open+to+New+Opportunities!)](https://git.io/typing-svg)
 
 ### Full Stack Web Developer | React · Next.js · Node.js · MongoDB · PostgreSQL
 
@@ -68,14 +68,20 @@ I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saddam2508&show_icons=true&theme=default&border_radius=10&hide_border=false" width="48%" alt="Saddam's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saddam2508&theme=default&border_radius=10" width="48%" alt="Saddam's Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Saddam2508&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&count_private=true" width="48%" alt="Saddam's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saddam2508&theme=tokyonight&border_radius=10" width="48%" alt="Saddam's Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam2508&layout=compact&theme=default&border_radius=10" width="48%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam2508&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" width="50%" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saddam2508&theme=tokyo-night&border_radius=10)
 
 </div>
 
@@ -93,16 +99,6 @@ React.js, Next.js, Node.js, Express.js, MongoDB, REST API, Better Auth, Stripe, 
 
 **AI-Driven Software Engineering covers:**
 TypeScript, PostgreSQL, Prisma, JWT Auth, LangChain, OpenAI API, AWS, CI/CD, GitHub Actions, Testing
-
----
-
-## 💼 Work Experience
-
-**Implementation Engineer** — MySoft Ltd. *(Jan 2024 – Feb 2025)*
-> Deployed and configured Hospital Management Software. Provided technical support and client training.
-
-**Customer Service Officer** — Grameenphone *(Mar 2025 – Dec 2025)*
-> Resolved telecom customer issues. Maintained high satisfaction through solution-focused communication.
 
 ---
 
@@ -128,7 +124,9 @@ TypeScript, PostgreSQL, Prisma, JWT Auth, LangChain, OpenAI API, AWS, CI/CD, Git
 
 <div align="center">
 
-_Thanks for visiting my profile! Feel free to reach out — I'm always open to new opportunities._
+![Profile Views](https://komarev.com/ghpvc/?username=Saddam2508&color=E05A00&style=for-the-badge&label=PROFILE+VIEWS)
+
+_Thanks for visiting! Feel free to reach out — always open to new opportunities._
 
 ⭐ **If you find my work interesting, consider giving a star!** ⭐
 
