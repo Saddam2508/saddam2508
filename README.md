@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer | React · Next.js · Node.js · MongoDB · PostgreSQL
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://saddam-portfolio-sage.vercel.app](https://saddam-portfolio-sage.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saddam-portfolio-sage.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saddam-hossain-1b0743226/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saddam2508)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saddam.dev26@gmail.com)
@@ -69,7 +69,7 @@ I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saddam2508&theme=tokyonight" width="48%" alt="Saddam's GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Saddam2508&theme=tokyonight&border_radius=10" width="48%" alt="Saddam's Streak" />
+<img src="https://github-readme-streak-stats-two.vercel.app/?user=Saddam2508&theme=tokyonight&border_radius=10" width="48%" alt="Saddam's Streak" />
 
 </div>
 
