@@ -1,142 +1,135 @@
-# Hello, I'm Md Saddam Hossain 👋
+<div align="center">
 
-A passionate Full Stack Developer from Bangladesh
+# Hi, I'm Md Saddam Hossain 👋
 
-🌍 Living in: Satkhira, Bangladesh
+### Full Stack Web Developer | React · Next.js · Node.js · MongoDB · PostgreSQL
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://b13-a09-saddam.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saddam-hossain-1b0743226/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saddam2508)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saddam.dev26@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Md-Saddam-Hossain/pfbid05phMfCgumho6ELSzTojgLyoEPLE9bbiMmM5hczRjen9Ss7eKJDtcFb8GTUvB93Sql/)
+
+📍 Satkhira, Khulna, Bangladesh
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m Saddam, a passionate freelance web developer with over two year of hands-on experience. I specialize in building modern and responsive websites using the latest web technologies.
+I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of hands-on experience building modern, scalable, and responsive web applications. I specialize in the **MERN Stack** and **Next.js**, with a strong focus on clean architecture, smooth user experiences, and production-ready code.
 
-I’m a self-motivated learner and a dedicated problem solver who enjoys working both independently and as part of a team. I love sharing knowledge with others and believe in learning through teaching.
-
-Currently, I’m focused on enhancing my skills in full-stack development, with the goal of landing a great job or advancing further in freelancing. I'm always open to new opportunities and collaborations that help me grow and contribute meaningfully.
-
----
-
-## 🛠️ My Skills
-
-### 💻 Web Development
-
-- HTML5, CSS3, Bootstrap
-- JavaScript, TypeScript
-- React.js, Next.js
-- Node.js, Express.js
-- MongoDB
-- Git & GitHub
-
-### 🎨 UI & Styling
-
-- Vanilla CSS
-- Tailwind CSS
-- DaisyUI
-- HeroUI
-
-### 🖥️ Other Skills:
-
-- Microsoft Office (Word, Excel, PowerPoint)
+- 🔭 Currently working on **full stack projects** with Next.js & Node.js
+- 🌱 Learning **TypeScript, PostgreSQL, Prisma & AI integration**
+- 💼 Open to **full-time, part-time & freelance** opportunities
+- 🤝 Always open to **collaborations and new projects**
+- 📫 Reach me at **saddam.dev26@gmail.com**
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **SportNest** | Full stack sports facility booking platform | Next.js · Node.js · MongoDB · Better Auth | [Live](https://b13-a09-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/B13-A09-Saddam) |
+| **DevPulse API** | Collaborative issue tracking REST API | TypeScript · Express.js · PostgreSQL · JWT | [Live](https://b7-a02-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/b7-a02-saddam) |
+| **Tile Gallery** | Image gallery app with Google OAuth | Next.js · Better Auth · Framer Motion | [Live](https://b13-a08-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/B13-A08-Saddam) |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🔧 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Saddam2508&show_icons=true&theme=default&border_radius=10&hide_border=false"
-  width="80%" 
-  alt="Saddam's GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saddam2508&show_icons=true&theme=default&border_radius=10&hide_border=false" width="48%" alt="Saddam's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saddam2508&theme=default&border_radius=10" width="48%" alt="Saddam's Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saddam2508&layout=compact&theme=default&border_radius=10" width="48%" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 💻 Most Used Languages
+## 🎓 Training & Courses
 
-<div align="left">
+| Course | Institute | Duration |
+|--------|-----------|----------|
+| **Web Development Course** — Batch 13 | Programming Hero | Jan 2026 – Jun 2026 |
+| **AI-Driven Software Engineering** — Batch 07 | Programming Hero | Apr 2026 – Oct 2026 |
 
-**HTML**  
-<img src="https://img.shields.io/badge/HTML-48.32%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+**Web Development covers:**
+React.js, Next.js, Node.js, Express.js, MongoDB, REST API, Better Auth, Stripe, RBAC, Vibe Coding
 
-<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
-  <div style="width: 48.32%; background: #E34F26; height: 10px; border-radius: 5px;"></div>
-</div><br>
+**AI-Driven Software Engineering covers:**
+TypeScript, PostgreSQL, Prisma, JWT Auth, LangChain, OpenAI API, AWS, CI/CD, GitHub Actions, Testing
 
-**JavaScript**  
-<img src="https://img.shields.io/badge/JavaScript-36.14%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+---
 
-<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
-  <div style="width: 36.14%; background: #F7DF1E; height: 10px; border-radius: 5px;"></div>
-</div><br>
+## 💼 Work Experience
 
-**CSS**  
-<img src="https://img.shields.io/badge/CSS-10.64%25-563D7C?style=flat-square&logo=css3&logoColor=white" />
+**Implementation Engineer** — MySoft Ltd. *(Jan 2024 – Feb 2025)*
+> Deployed and configured Hospital Management Software. Provided technical support and client training.
 
-<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
-  <div style="width: 10.64%; background: #563D7C; height: 10px; border-radius: 5px;"></div>
-</div><br>
-
-**TypeScript**  
-<img src="https://img.shields.io/badge/TypeScript-2.77%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
-  <div style="width: 2.77%; background: #3178C6; height: 10px; border-radius: 5px;"></div>
-</div><br>
-
-**Java**  
-<img src="https://img.shields.io/badge/Java-2.14%25-b07219?style=flat-square&logo=java&logoColor=white" />
-
-<div style="background: #e0e0e0; border-radius: 5px; height: 10px; width: 100%;">
-  <div style="width: 2.14%; background: #b07219; height: 10px; border-radius: 5px;"></div>
-</div>
-
-</div>
+**Customer Service Officer** — Grameenphone *(Mar 2025 – Dec 2025)*
+> Resolved telecom customer issues. Maintained high satisfaction through solution-focused communication.
 
 ---
 
 ## 📚 Education
 
-1. 🎓 M.S.S  
-   🏫 Govt. Titumir College  
-   📍 Dhaka, Bangladesh
+🎓 **Master of Social Science (MSS)** — Political Science
+🏫 Govt. Titumir College, Dhaka, Bangladesh
 
 ---
 
 ## 🗣️ Languages
 
-- Bengali: Native
-- English: Advanced
+- 🇧🇩 **Bengali** — Native
+- 🇬🇧 **English** — Advanced
 
 ---
 
 ## 🎯 Hobbies & Interests
 
-- ⚽ Football, 🏸 Badminton, ♟️ Chess
-- 🏊 Swimming, 🏃 Running
-- ✈️ Traveling, 📸 Photography
+⚽ Football &nbsp;|&nbsp; 🏸 Badminton &nbsp;|&nbsp; ♟️ Chess &nbsp;|&nbsp; 🏊 Swimming &nbsp;|&nbsp; 🏃 Running &nbsp;|&nbsp; ✈️ Traveling &nbsp;|&nbsp; 📸 Photography
 
 ---
 
-<!-- ## 🏆 Honors & Awards
+<div align="center">
 
-- [Your Award 1]
-- [Your Award 2]
-- [Your Award 3] -->
+_Thanks for visiting my profile! Feel free to reach out — I'm always open to new opportunities._
 
----
+⭐ **If you find my work interesting, consider giving a star!** ⭐
 
-## 📫 Contact Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-saddam-hossain-1b0743226/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" style="margin-right:15px;" /></a>
-  <a href="eyarinsultana@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" style="margin-right:15px;" /></a>
-  <a href="https://web.facebook.com/profile.php?id=61557623940771"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="30" width="30" style="margin-right:15px;" /></a>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" height="30" width="30" /></a>
-</p>
-
----
-
-_Thank you for visiting my profile!_
+</div>
