@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="./assets/saddam_profile.png" alt="Md Saddam Hossain Banner" width="100%" />
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E05A00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Md+Saddam+Hossain;Full+Stack+Web+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Open+to+New+Opportunities!)](https://git.io/typing-svg)
 
-### Full Stack Web Developer | React · Next.js · Node.js · MongoDB · PostgreSQL
+### Full Stack & Next.js Developer | React · Next.js · Node.js · MongoDB · PostgreSQL
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saddam-portfolio-sage.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saddam-hossain-1b0743226/)
@@ -18,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of hands-on experience building modern, scalable, and responsive web applications. I specialize in the **MERN Stack** and **Next.js**, with a strong focus on clean architecture, smooth user experiences, and production-ready code.
+I'm a passionate **Full Stack & Next.js Developer** from Bangladesh with 1.5+ years of hands-on experience building modern, scalable, and responsive web applications. I specialize in the **MERN Stack** and **Next.js**, with a strong focus on clean architecture, smooth user experiences, and production-ready code.
 
 - 🔭 Currently working on **full stack projects** with Next.js & Node.js
 - 🌱 Learning **TypeScript, PostgreSQL, Prisma & AI integration**
@@ -30,17 +34,18 @@ I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **SportNest** | Full stack sports facility booking platform | Next.js · Node.js · MongoDB · Better Auth | [Live](https://b13-a09-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/B13-A09-Saddam) |
-| **DevPulse API** | Collaborative issue tracking REST API | TypeScript · Express.js · PostgreSQL · JWT | [Live](https://b7-a02-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/b7-a02-saddam) |
-| **Tile Gallery** | Image gallery app with Google OAuth | Next.js · Better Auth · Framer Motion | [Live](https://b13-a08-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/B13-A08-Saddam) |
+| Project          | Description                                 | Tech Stack                                 | Links                                                                                            |
+| ---------------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| **SportNest**    | Full stack sports facility booking platform | Next.js · Node.js · MongoDB · Better Auth  | [Live](https://b13-a09-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/B13-A09-Saddam) |
+| **DevPulse API** | Collaborative issue tracking REST API       | TypeScript · Express.js · PostgreSQL · JWT | [Live](https://b7-a02-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/b7-a02-saddam)   |
+| **Tile Gallery** | Image gallery app with Google OAuth         | Next.js · Better Auth · Framer Motion      | [Live](https://b13-a08-saddam.vercel.app) · [Repo](https://github.com/Saddam2508/B13-A08-Saddam) |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,6 +55,7 @@ I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -57,6 +63,7 @@ I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🔧 Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -84,14 +91,13 @@ I'm a passionate **Full Stack Web Developer** from Bangladesh with 1.5+ years of
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saddam2508&theme=tokyo-night&border_radius=10" width="100%" alt="Activity Graph" />
 
-</div>
----
+## </div>
 
 ## 🎓 Training & Courses
 
-| Course | Institute | Duration |
-|--------|-----------|----------|
-| **Web Development Course** — Batch 13 | Programming Hero | Jan 2026 – Jun 2026 |
+| Course                                        | Institute        | Duration            |
+| --------------------------------------------- | ---------------- | ------------------- |
+| **Web Development Course** — Batch 13         | Programming Hero | Jan 2026 – Jun 2026 |
 | **AI-Driven Software Engineering** — Batch 07 | Programming Hero | Apr 2026 – Oct 2026 |
 
 **Web Development covers:**
